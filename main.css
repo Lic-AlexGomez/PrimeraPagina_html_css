@@ -132,7 +132,7 @@ footer{
   #check:checked ~ ul{
     nav{
       padding: fixed;
-      top:0;
+      top:10px;
     }
     
   
