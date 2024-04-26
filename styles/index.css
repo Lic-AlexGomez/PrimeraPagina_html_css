@@ -48,3 +48,6 @@ font-size: 17px;
   text-shadow: 2px 2px 3px rgb(81, 76, 76);
   margin-bottom: 30px;
 }
+article {
+ margin-bottom: 20%;
+}
