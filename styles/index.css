@@ -6,7 +6,7 @@
   text-align:justify;
   margin: 10px 20px;
 font-size: 17px;
-  color:rgb(246, 246, 246);
+  color:rgb(0, 0, 0);
 }
 
 .subtitulo{
@@ -24,7 +24,7 @@ font-size: 17px;
   }
   .textoDerechoR{
 
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 2px 2px 2px rgb(251, 221, 221);
   }
   .subtitulo{
     margin-top: 20%;
@@ -54,4 +54,11 @@ article {
 
 footer{
   margin-top: 20%;
+}
+#tituloTres{
+  margin-top: 40px;
+  margin-bottom: -60px;
+}
+article{
+  width: 95%;
 }

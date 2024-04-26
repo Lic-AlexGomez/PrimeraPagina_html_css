@@ -4,7 +4,7 @@
 }
 body{
     font-family:'Courier New', Courier, monospace;
-    background: linear-gradient(to right, rgb(255, 0, 255), rgb(0, 255, 0));
+    background: rgb(242, 231, 216);
     margin: 0;
     padding: 0;
     padding-bottom: 100%;
@@ -29,13 +29,13 @@ li a{
     display: block;
     padding: 15px;
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 20px;
 
 }
 .active{
-    background-color:rgb(255, 0, 255);
+    background-color:rgb(96, 78, 215);
     cursor:default;
     
 } 
@@ -115,7 +115,7 @@ footer{
     font-size: 25px;
   }
   li a:hover,a:active {
-    color:#a500e6;
+    color:#5c35b7;
    
   }
   .active{
