@@ -102,9 +102,7 @@ footer{
     left: -100%;
     text-align: center;
     transition: all 0.5s ease;
-    z-index: 1000;
-    
-    
+      
   } 
  li{
     float: none;
