@@ -84,6 +84,12 @@ footer{
     li a{
         font-size: 16px;
     }
+    nav{
+      position: fixed;
+      top: 0;
+      width: 100%;
+      height: 50px;
+    }
    ul{
     position: fixed;
     width: 100%;
@@ -123,6 +129,11 @@ footer{
     display: none;
   }
   #check:checked ~ ul{
+    nav{
+      padding: fixed;
+      top:10px !important;
+    }
+    overflow:hidden;
     left: 0;
   }
 
