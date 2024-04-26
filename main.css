@@ -128,13 +128,13 @@ footer{
   hr{
     display: none;
   }
+  
+ 
+  
+  
   #check:checked ~ ul{
-    nav{
-      padding: fixed;
-      top:10px;
-    }
-    
     left: 0;
   }
 
    }
+   

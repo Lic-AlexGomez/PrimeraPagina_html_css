@@ -1,16 +1,7 @@
 
 
-article img.imgPrincipal{
 
-  position: relative;
-  margin-top: 20px;
-  width: 80%;
-  left: 50%;
-  transform: translate(-50%, 0);
-  -ms-transform: translate(-50%, 0);
-  -webkit-transform: translate(-50%, 0);
 
-}
 .textoDerechoR{
   text-align:justify;
   margin: 10px 20px;
@@ -20,4 +11,20 @@ font-size: 17px;
 
 .subtitulo{
   margin-left: 10px;
+}
+
+@media (max-width: 575.98px) { 
+
+  article img.imgPrincipal{
+    margin-top: 7%;
+    width: 60%;
+    margin-left: 20%;
+    
+  
+  }
+  .textoDerechoR{
+
+    text-shadow: 2px 2px 2px black;
+  }
+  
 }
