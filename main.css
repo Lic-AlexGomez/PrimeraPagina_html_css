@@ -77,7 +77,9 @@ footer{
     display: none;
   }
   @media (max-width: 575.98px) { 
-
+ body{
+  overflow-y: none;
+ }
     .checkbtn{
         display: block;
     }
@@ -89,6 +91,7 @@ footer{
       top: 0;
       width: 100%;
       height: 50px;
+     
     }
    ul{
     position: fixed;
@@ -131,10 +134,10 @@ footer{
   #check:checked ~ ul{
     nav{
       padding: fixed;
-      top:10px !important;
+      top:0;
     }
-    overflow:hidden;
-    left: 0;
+    
+  
   }
 
    }

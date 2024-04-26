@@ -3,6 +3,7 @@
 article img.imgPrincipal{
 
   position: relative;
+  margin-top: 20px;
   width: 80%;
   left: 50%;
   transform: translate(-50%, 0);
